@@ -10,17 +10,17 @@ Using Tableau, an interactive dashboard was created to visualize insights and un
 
 ## Objectives
 
-* Rank songs based on popularity
-* Analyze distribution of streaming metrics
-* Study energy levels across artists
-* Identify correlations between audio features
-* Understand listener preferences
+- Rank songs based on popularity
+- Analyze distribution of streaming metrics
+- Study energy levels across artists
+- Identify correlations between audio features
+- Understand listener preferences
 
 ---
 
 ## Dashboard Preview
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](https://github.com/abinesh8838/Music-Streaming-Analysis/blob/main/Dashboard_AMS.png)
 
 ---
 
@@ -30,60 +30,48 @@ Using Tableau, an interactive dashboard was created to visualize insights and un
 
 * Top songs include:
 
-  * One Of The Girls (92)
-  * Starboy (91)
-  * One Dance (91)
-  * Blinding Lights (90)
+  - One Of The Girls (92)
+  - Starboy (91)
+  - One Dance (91)
+  - Blinding Lights (90)
 * Shows high competition among top streamed songs
 
 ---
 
 ### Average Energy per Artist
 
-* Artists like Martin Garrix show highest energy (~90)
-* Metallica also shows high energy (~79)
-* High-energy music dominates streaming trends
+- Artists like Martin Garrix show highest energy (~90)
+- Metallica also shows high energy (~79)
+- High-energy music dominates streaming trends
 
 ---
 
 ### Distribution of Popularity
 
-* Most songs fall in the 60–80 range
-* Few songs reach very high popularity (>90)
+- Most songs fall in the 60–80 range
+- Few songs reach very high popularity (>90)
 
 ---
 
 ### Energy Distribution
 
-* Majority of songs are Medium to High energy
-* Indicates user preference for energetic music
+- Majority of songs are Medium to High energy
+- Indicates user preference for energetic music
 
 ---
 
 ### Correlation Analysis (Energy vs Danceability)
 
-* Moderate positive correlation observed
-* Higher energy songs tend to be more danceable
+- Moderate positive correlation observed
+- Higher energy songs tend to be more danceable
 
 ---
 
 ## Tools & Technologies
 
-* Tableau (Data Visualization)
-* Microsoft Excel (Data Preparation)
-* CSV Dataset (Spotify Audio Features)
-
----
-
-## Project Structure
-
-Music-Streaming-Analysis/
-│
-├── data/
-├── dashboard/
-├── tableau/
-├── certificate/
-└── README.md
+- Tableau (Data Visualization)
+- Microsoft Excel (Data Preparation)
+- CSV Dataset (Spotify Audio Features)
 
 ---
 
@@ -103,9 +91,9 @@ The analysis highlights that Energy and Danceability significantly influence mus
 
 ## Future Improvements
 
-* Add more songs for deeper analysis
-* Build interactive dashboards in Power BI
-* Apply machine learning for prediction
+- Add more songs for deeper analysis
+- Build interactive dashboards in Power BI
+- Apply machine learning for prediction
 
 ---
 
